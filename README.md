@@ -1,0 +1,2 @@
+# Retention_Of_Personal_Infomation
+Find My Matesの遂行中における個人情報の保持に関するパッケージ
